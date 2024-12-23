@@ -1,0 +1,14 @@
+div{
+    background-color: red;
+    height: 200px;
+    /* display: block; */
+    visibility: hidden;
+    
+}
+span{
+    background-color: aqua;
+    display: none;
+    height: 200px;
+    width: 200px;
+    /* display: inline-block; */
+}
